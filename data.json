@@ -744,127 +744,32 @@
     ],
     "Hard_Liquor": [
         {
-            "Name": "Hennessy VS"
+            "Name": "Cognac",
+            "Desc": "Hennessy VS<br>Hennessy VSOP<br>Remy Martin 1738<br>Martell Cordon Bleu<br>Martell XO"
         },
         {
-            "Name": "Hennessy VSOP"
+            "Name": "Vodka",
+            "Desc": "Absolut<br>Ciroc Red Berry<br>Ciroc Peach<br>Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
         },
         {
-            "Name": "Remy Martin 1738"
+            "Name": "Whiskey",
+            "Desc": "Jack Daniel's<br>Maker's Mark<br>Chivas Regal 12<br>Jameson<br>Crown Royal<br>Crown Royal Apple<br>Suntory Toki<br>Johnnie Walker Black 12<br>The Glenlivet 12<br>Macallan 12<br>Hibiki<br>Nikka Coffey Grain<br>The Yamazaki 12"
         },
         {
-            "Name": "Martell Cordon Bleu"
+            "Name": "Tequila ",
+            "Desc": "1800 Reposado<br>Patron Silver"
         },
         {
-            "Name": "Martell XO"
+            "Name": "Rum",
+            "Desc": "Bacardi Superior<br>Malibu"
         },
         {
-            "Name": "Absolut"
+            "Name": "Gin",
+            "Desc": "Bombay Sapphire<br>Tanqueray"
         },
         {
-            "Name": "Ciroc Red Berry"
-        },
-        {
-            "Name": "Ciroc Peach"
-        },
-        {
-            "Name": "Grey Goose"
-        },
-        {
-            "Name": "Ketel One"
-        },
-        {
-            "Name": "Skyy"
-        },
-        {
-            "Name": "Tito'S"
-        },
-        {
-            "Name": "Jack Daniel's"
-        },
-        {
-            "Name": "Maker's Mark"
-        },
-        {
-            "Name": "Chivas Regal 12"
-        },
-        {
-            "Name": "Jameson"
-        },
-        {
-            "Name": "Crown Royal"
-        },
-        {
-            "Name": "Crown Royal Apple"
-        },
-        {
-            "Name": "Suntory Toki"
-        },
-        {
-            "Name": "Johnnie Walker Black 12"
-        },
-        {
-            "Name": "The Glenlivet 12"
-        },
-        {
-            "Name": "Macallan 12"
-        },
-        {
-            "Name": "Hibiki"
-        },
-        {
-            "Name": "Nikka Coffey Grain"
-        },
-        {
-            "Name": "The Yamazaki 12"
-        },
-        {
-            "Name": "1800 Reposado"
-        },
-        {
-            "Name": "Patron Silver"
-        },
-        {
-            "Name": "Bacardi Superior"
-        },
-        {
-            "Name": "Malibu"
-        },
-        {
-            "Name": "Bailey'S"
-        },
-        {
-            "Name": "Frangelico"
-        },
-        {
-            "Name": "Goldschlager"
-        },
-        {
-            "Name": "Grand Marnier"
-        },
-        {
-            "Name": "Hpnotiq"
-        },
-        {
-            "Name": "Jagermeister"
-        },
-        {
-            "Name": "Kahlua"
-        },
-        {
-            "Name": "Midori"
-        },
-        {
-            "Name": "Rumple Minze"
-        },
-        {
-            "Name": "X-Rated"
-        },
-        {
-            "Name": "Bombay Sapphire"
-        },
-        {
-            "Name": "Tanqueray"
+            "Name": "Liqueur",
+            "Desc": "Bailey's<br>Frangelico<br>Goldschlager<br>Grand Marnier<br>Hpnotiq<br>Jagermeister<br>Kahlua<br>Midori<br>Rumple Minze<br>X-Rated"
         }
     ],
     "Mixed_Drinks": [
