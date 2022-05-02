@@ -597,9 +597,13 @@
             "Price": "$3.99 "
         },
         {
+            "Name": "Coconut Water<br>椰子水",
+            "Price": "$3.99 "
+        },
+        {
             "Name": "Iced Green Tea<br>凍綠茶 ",
             "Price": "$4.99 ",
-            "Desc": "Original 原味<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰"
+            "Desc": "Original 原味<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰<br>Lychee 荔枝"
         },
         {
             "Name": "Black Coffee (Hot or Cold)<br>黑咖啡 (熱, 凍)",
@@ -1017,7 +1021,8 @@
         },
         {
             "Name": "Soju",
-            "Price": "$25.00 "
+            "Price": "$25.00 ",
+            "Desc": "Assorted Flavors"
         }
     ]
 }
