@@ -1,4 +1,4 @@
-﻿{
+{
     "Dimsum": [
         {
             "Name": "BBQ Pork Bun<br>叉燒包",
@@ -742,7 +742,7 @@
             "Price": "$4.99 "
         }
     ],
-    "Cognac": [
+    "Hard_Liquor": [
         {
             "Name": "Hennessy VS"
         },
@@ -757,9 +757,7 @@
         },
         {
             "Name": "Martell XO"
-        }
-    ],
-    "Vodka": [
+        },
         {
             "Name": "Absolut"
         },
@@ -780,9 +778,7 @@
         },
         {
             "Name": "Tito'S"
-        }
-    ],
-    "Whiskey": [
+        },
         {
             "Name": "Jack Daniel's"
         },
@@ -821,25 +817,19 @@
         },
         {
             "Name": "The Yamazaki 12"
-        }
-    ],
-    "Tequila": [
+        },
         {
             "Name": "1800 Reposado"
         },
         {
             "Name": "Patron Silver"
-        }
-    ],
-    "Rum": [
+        },
         {
             "Name": "Bacardi Superior"
         },
         {
             "Name": "Malibu"
-        }
-    ],
-    "Liqueur": [
+        },
         {
             "Name": "Bailey'S"
         },
@@ -869,9 +859,7 @@
         },
         {
             "Name": "X-Rated"
-        }
-    ],
-    "Gin": [
+        },
         {
             "Name": "Bombay Sapphire"
         },
