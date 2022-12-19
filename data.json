@@ -753,7 +753,7 @@
         },
         {
             "Name": "Vodka",
-            "Desc": "Absolut<br>Ciroc Red Berry<br>Ciroc Peach<br>Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
+            "Desc": "Absolut<br>Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
         },
         {
             "Name": "Whiskey",
@@ -761,7 +761,7 @@
         },
         {
             "Name": "Tequila ",
-            "Desc": "1800 Reposado<br>Patron Silver"
+            "Desc": "1800 Reposado<br>Patron Silver<br>Don Julio Anejo<br>Don Julio Blanco"
         },
         {
             "Name": "Rum",
@@ -779,214 +779,214 @@
     "Mixed_Drinks": [
         {
             "Name": "Apple Martini ",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Vodka<br>Sour Apple Schnapps"
         },
         {
             "Name": "Amaretto Sour",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Amaretto<br>Sweet & Sour"
         },
         {
             "Name": "Bermuda Triangle",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Rum<br>Peach Schnapps<br>Orange Juice"
         },
         {
             "Name": "Blue Hawaiian",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Malibu<br>Rum<br>Blue Curacao<br>Pineapple Juice"
         },
         {
             "Name": "Black Russian",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Kahlua<br>Vodka"
         },
         {
             "Name": "Caramel Coke",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Butterscotch Schnapps<br>Coke"
         },
         {
             "Name": "Cosmopolitan",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Vodka<br>Grand Marnier<br>Cranberry Juice<br>Squeezed Lime"
         },
         {
             "Name": "Godfather",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Scotch Whisky<br>Amaretto"
         },
         {
             "Name": "Hurricane",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Light Rum<br>Dark Rum<br>Pineapple Juice<br>Orange Juice<br>151<br>Grenadine"
         },
         {
             "Name": "Long Island",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Vodka<br>Gin<br>Tequila<br>Rum<br>Triple Sec<br>S&S<br>Coke"
         },
         {
             "Name": "Malibu Pineapple",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Malibu<br>Pineapple Juice"
         },
         {
             "Name": "Mangotini",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Vodka<br>Mango Schnapps<br>Mango Syrup"
         },
         {
             "Name": "Mango Sunrise",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Mango Schnapps<br>Orange Juice<br>Grenadine"
         },
         {
             "Name": "Margarita",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Tequila<br>Margarita Mix"
         },
         {
             "Name": "Midori Melon Ball",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Midori<br>Vodka<br>Pineapple Juice"
         },
         {
             "Name": "Midori Sour ",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Midori<br>Sweet & Sour"
         },
         {
             "Name": "Pineapple Upside Down",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Malibu<br>Pineapple Juice<br>Grenadine"
         },
         {
             "Name": "Pink Fizzy",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Watermelon Schnapps<br>Soda/Sprite"
         },
         {
             "Name": "Screwdriver",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Vodka<br>Orange Juice"
         },
         {
             "Name": "Sex on the Beach",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Vodka<br>Peach Schnapps<br>Cranberry & Orange Juice"
         },
         {
             "Name": "Tequila Sunrise",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Tequila<br>Orange Juice<br>Grenadine"
         },
         {
             "Name": "Triple Sec Sunrise",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Triple Sec<br>Orange Juice<br>Grenadine"
         }
     ],
     "Shooters": [
         {
             "Name": "3 Wise Men",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Jager<br>Rumple Minze<br>151"
         },
         {
             "Name": "5 Stars ",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Jager<br>Goldschlager<br>Rumple Minze<br>Tequila<br>151  "
         },
         {
             "Name": "B52",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Kahlua<br>Bailey's, Grand Marnier<br>151"
         },
         {
             "Name": "Blow Job",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Frangelico<br>Bailey's"
         },
         {
             "Name": "BLT",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "X-Rated<br>Hpnotiq"
         },
         {
             "Name": "Blue Lamborghini",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Blue Curacao<br>151"
         },
         {
             "Name": "Buttery Nipples",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Butterschotch Schnapps<br>Bailey's"
         },
         {
             "Name": "Chocolate Cake",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Frangelico<br>Citrus Vodka<br>Sugared Lemon"
         },
         {
             "Name": "Deep Ocean",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Blue Curacao<br>Hpnotiq"
         },
         {
             "Name": "Flaming Dr. Pepper",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Beer<br>Amaretto<br>151"
         },
         {
             "Name": "Ghostbusters",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Midori<br>Peach Schnapps<br>Bailey's"
         },
         {
             "Name": "Golden Apple",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Gold Schlager<br>Apple Schnapps"
         },
         {
             "Name": "Incredible Hulk",
-            "Price": "",
+            "Price": "14.50",
             "Desc": "Hennessy<br>Hpnotiq"
         },
         {
             "Name": "Jager Bomb",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Jager<br>Redbull"
         },
         {
             "Name": "Lemon Drop",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Citrus Vodka<br>Fresh Lemon Juice<br>Sugar"
         },
         {
             "Name": "Mind Eraser",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Kahlua<br>Vodka<br>Soda/Sprite"
         },
         {
             "Name": "Poison Milk",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Jager<br>Bailey's"
         },
         {
             "Name": "Sake Bomb",
-            "Price": "",
+            "Price": "12.50",
             "Desc": "Beer<br>Sake"
         },
         {
             "Name": "Watermelon Shooter",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Vodka<br>Watermelon Schnapps"
         },
         {
             "Name": "Windex",
-            "Price": "",
+            "Price": "9.50",
             "Desc": "Vodka<br>Blue Curacao<br>S&S"
         }
     ],
@@ -998,10 +998,6 @@
         {
             "Name": "BV Coastal Merlot 16'",
             "Price": "$39.00 "
-        },
-        {
-            "Name": "Stags Leap's Cabernet 07'",
-            "Price": "$89.00 "
         }
     ],
     "Sake": [
@@ -1022,7 +1018,7 @@
         {
             "Name": "Soju",
             "Price": "$25.00 ",
-            "Desc": "Assorted Flavors"
+            "Desc": "Plum, Peach, Green Grape, Grapefruit, Strawberry"
         }
     ]
 }
