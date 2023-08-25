@@ -698,52 +698,52 @@
     "Beer": [
         {
             "Name": "Miller Lite",
-            "Price": "$3.99 "
+            "Price": "$4.99 "
         },
         {
             "Name": "Bud Light",
-            "Price": "$3.99 "
+            "Price": "$4.99 "
         },
         {
             "Name": "Budweiser",
-            "Price": "$3.99 "
+            "Price": "$4.99 "
         },
         {
             "Name": "Corona",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Dos Equis",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Shiner Bock",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Heineken",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Blue Moon",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Smirnoff",
-            "Price": "$4.99 ",
+            "Price": "$5.99 ",
             "Desc": "Original"
         },
         {
             "Name": "Sapporo",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Tsingtao",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
-            "Name": "Guinness",
-            "Price": "$4.99 "
+            "Name": "Stella Artois",
+            "Price": "$5.99 "
         }
     ],
     "Hard_Liquor": [
