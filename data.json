@@ -753,15 +753,15 @@
         },
         {
             "Name": "Vodka",
-            "Desc": "Absolut<br>Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
+            "Desc": "Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
         },
         {
             "Name": "Whiskey",
-            "Desc": "Jack Daniel's<br>Maker's Mark<br>Chivas Regal 12<br>Jameson<br>Crown Royal<br>Crown Royal Apple<br>Suntory Toki<br>Johnnie Walker Black 12<br>The Glenlivet 12<br>Macallan 12<br>Hibiki<br>Nikka Coffey Grain<br>The Yamazaki 12"
+            "Desc": "Crown Royal Apple<br>Hibiki<br>Jack Daniel's<br>Jameson<br>Crown Royal<br>Johnnie Walker Black 12<br>Macallan 12<br>Maker's Mark<br>Chivas Regal 12<br>Nikka Coffey Grain<br>Nikka Coffey Malt<br>Nikka Miyagiko Single Malt<br>Nikka Taketsuru Pure Malt<br>Suntory Toki<br>The Glenlivet 12<br>The Yamazaki 12<br>"
         },
         {
             "Name": "Tequila ",
-            "Desc": "1800 Reposado<br>Patron Silver<br>Don Julio Anejo<br>Don Julio Blanco"
+            "Desc": "1800 Reposado<br>Casamigos Anejo<br>Casamigos Reposado<br>Clase Azul Reposado<br>Don Julio Anejo<br>Don Julio Blanco<br>Patron Silver<br>"
         },
         {
             "Name": "Rum",
@@ -996,6 +996,14 @@
             "Price": "$29.00 "
         },
         {
+            "Name": "Copper Ridge Melot'",
+            "Price": "$29.00 "
+        },
+        {
+            "Name": "Copper Ridge Chardonnay'",
+            "Price": "$29.00 "
+        },
+        {
             "Name": "BV Coastal Merlot 16'",
             "Price": "$39.00 "
         }
@@ -1018,7 +1026,7 @@
         {
             "Name": "Soju",
             "Price": "$25.00 ",
-            "Desc": "Plum, Peach, Green Grape, Grapefruit, Strawberry"
+            "Desc": "Original, Plum, Peach, Green Grape, Grapefruit, Strawberry"
         }
     ]
 }
