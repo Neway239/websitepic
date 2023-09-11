@@ -559,6 +559,10 @@
             "Price": "$1.99 "
         },
         {
+            "Name": "Sparkling Water<br>汽泡水",
+            "Price": "$４.99 "
+        },
+        {
             "Name": "Soft Drinks<br>各式汽水",
             "Price": "$2.99 ",
             "Desc": "Coke<br>Sprite<br>Diet Coke<br>Dr. Pepper"
@@ -573,7 +577,7 @@
         },
         {
             "Name": "Mexican Coke<br>墨西哥可樂",
-            "Price": "$4.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "ITO EN Oi Ocha Unsweetened Green Tea<br>伊藤園無糖綠茶",
@@ -585,41 +589,41 @@
         },
         {
             "Name": "Assorted Juice<br>各式果汁",
-            "Price": "$3.99 ",
-            "Desc": "Pineapple 菠蘿<br>Cranberry  蔓越莓<br>Orange橙汁"
+            "Price": "$4.99 ",
+            "Desc": "Pineapple 菠蘿<br>Cranberry 蔓越莓<br>Orange 橙汁"
         },
         {
             "Name": "Lemonade<br>檸檬汁",
-            "Price": "$3.99 "
+            "Price": "$4.99 "
         },
         {
             "Name": "Hot Tea Cup<br>熱茶 (杯)",
             "Price": "$3.99 "
         },
         {
-            "Name": "Coconut Water<br>椰子水",
-            "Price": "$3.99 "
+            "Name": "Iced Green Tea<br>凍綠茶 ",
+            "Price": "$5.99 ",
+            "Desc": "Jasmine 茉莉花<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰<br>Lychee 荔枝"
         },
         {
-            "Name": "Iced Green Tea<br>凍綠茶 ",
-            "Price": "$4.99 ",
-            "Desc": "Original 原味<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰<br>Lychee 荔枝"
+            "Name": "Ice Lemon Tea<br>凍檸茶",
+            "Price": "$5.99 "
         },
         {
             "Name": "Black Coffee (Hot or Cold)<br>黑咖啡 (熱, 凍)",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Honey Lemon (Hot or Cold)<br>檸蜜 (熱, 凍)",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Ginseng Tea (Cup)<br>參茶 (杯)",
-            "Price": "$4.99 "
+            "Price": "$5.99 "
         },
         {
             "Name": "Honey Ginseng Tea (Hot or Cold)<br>參蜜 (熱, 凍)",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Slushie<br>各式冰沙",
@@ -753,7 +757,7 @@
         },
         {
             "Name": "Vodka",
-            "Desc": "Grey Goose<br>Ketel One<br>Skyy<br>Tito's"
+            "Desc": "Ciroc Peach<br>Grey Goose<br>Ketel One<br>Tito's"
         },
         {
             "Name": "Whiskey",
@@ -780,7 +784,7 @@
         {
             "Name": "Apple Martini ",
             "Price": "12.50",
-            "Desc": "Vodka<br>Sour Apple Schnapps"
+            "Desc": "Vodka<br>Apple Schnapps"
         },
         {
             "Name": "Amaretto Sour",
@@ -790,7 +794,7 @@
         {
             "Name": "Bermuda Triangle",
             "Price": "9.50",
-            "Desc": "Rum<br>Peach Schnapps<br>Orange Juice"
+            "Desc": "Spiced Rum<br>Peach Schnapps<br>Orange Juice"
         },
         {
             "Name": "Blue Hawaiian",
@@ -800,7 +804,7 @@
         {
             "Name": "Black Russian",
             "Price": "9.50",
-            "Desc": "Kahlua<br>Vodka"
+            "Desc": "Vodka<br>Kahlua"
         },
         {
             "Name": "Caramel Coke",
@@ -825,7 +829,7 @@
         {
             "Name": "Long Island",
             "Price": "9.50",
-            "Desc": "Vodka<br>Gin<br>Tequila<br>Rum<br>Triple Sec<br>S&S<br>Coke"
+            "Desc": "Vodka<br>Gin<br>Tequila<br>Rum<br>Triple Sec<br>Sweet & Sour<br>Coke"
         },
         {
             "Name": "Malibu Pineapple",
@@ -845,12 +849,12 @@
         {
             "Name": "Margarita",
             "Price": "9.50",
-            "Desc": "Tequila<br>Margarita Mix"
+            "Desc": "Tequila<br>Margarita Mix<br>Salt Rim"
         },
         {
             "Name": "Midori Melon Ball",
             "Price": "9.50",
-            "Desc": "Midori<br>Vodka<br>Pineapple Juice"
+            "Desc": "Midori<br>Vodka<br>Orange Juice"
         },
         {
             "Name": "Midori Sour ",
