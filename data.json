@@ -944,14 +944,14 @@
             "Desc": "Beer<br>Amaretto<br>151"
         },
         {
-            "Name": "Ghostbusters",
-            "Price": "9.50",
-            "Desc": "Midori<br>Peach Schnapps<br>Bailey's"
-        },
-        {
             "Name": "Golden Apple",
             "Price": "9.50",
             "Desc": "Gold Schlager<br>Apple Schnapps"
+        },
+        {
+            "Name": "Green Tea Shot",
+            "Price": "12.50",
+            "Desc": "Jameson<br>Peach Schnapps<br>Sweet & Sour<br>Sprite"
         },
         {
             "Name": "Incredible Hulk",
@@ -961,27 +961,27 @@
         {
             "Name": "Jager Bomb",
             "Price": "9.50",
-            "Desc": "Jager<br>Redbull"
+            "Desc": "Jager<br>Red Bull"
         },
         {
             "Name": "Lemon Drop",
             "Price": "9.50",
-            "Desc": "Citrus Vodka<br>Fresh Lemon Juice<br>Sugar"
+            "Desc": "Citrus Vodka<br>Lemon Juice<br>Sugar"
         },
         {
-            "Name": "Mind Eraser",
+            "Name": "Jolly Rancher",
             "Price": "9.50",
-            "Desc": "Kahlua<br>Vodka<br>Soda/Sprite"
-        },
-        {
-            "Name": "Poison Milk",
-            "Price": "9.50",
-            "Desc": "Jager<br>Bailey's"
+            "Desc": "Watermelon Schnapps<br>Apple Schnapps<br>Cranberry Juice"
         },
         {
             "Name": "Sake Bomb",
             "Price": "12.50",
             "Desc": "Beer<br>Sake"
+        },
+        {
+            "Name": "Soju Bomb",
+            "Price": "12.50",
+            "Desc": "Beer<br>Soju"
         },
         {
             "Name": "Watermelon Shooter",
@@ -991,7 +991,7 @@
         {
             "Name": "Windex",
             "Price": "9.50",
-            "Desc": "Vodka<br>Blue Curacao<br>S&S"
+            "Desc": "Vodka<br>Blue Curacao<br>Sweet & Sour"
         }
     ],
     "Wine": [
@@ -1030,7 +1030,7 @@
         {
             "Name": "Soju",
             "Price": "$25.00 ",
-            "Desc": "Original, Plum, Peach, Green Grape, Grapefruit, Strawberry"
+            "Desc": "Original<br>Plum<br>Peach<br>Green Grape<br>Grapefruit<br>Strawberry"
         }
     ]
 }
