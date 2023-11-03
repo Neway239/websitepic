@@ -48,7 +48,7 @@
         },
         {
             "Name": "Curry Fish Ball<br>咖哩魚丸",
-            "Price": "$7.99 "
+            "Price": "$9.99 "
         },
         {
             "Name": "Fried Fish Ball<br>脆炸魚丸",
@@ -59,28 +59,24 @@
             "Price": "$7.99 "
         },
         {
-            "Name": "Edamame<br>毛豆",
+            "Name": "Edamame w/ Sea Salt<br>海鹽毛豆",
             "Price": "$7.99 "
         },
         {
-            "Name": "Edamame w/ Garlic<br>蒜香毛豆",
+            "Name": "Edamame w/ Spicy Garlic<br>蒜香毛豆",
             "Price": "$8.99 "
         },
         {
             "Name": "Steamed Dumplings<br>蒸餃子",
-            "Price": "$8.99 "
+            "Price": "$10.99 "
         },
         {
-            "Name": "Pan Fried Dumplings<br>香煎餃子",
-            "Price": "$9.99 "
+            "Name": "Pan-Fried Dumplings<br>香煎餃子",
+            "Price": "$11.99 "
         },
         {
             "Name": "Crispy Vegetable Egg Rolls<br>香脆素菜卷",
-            "Price": "$2.19/pc"
-        },
-        {
-            "Name": "Crispy Meat Egg Rolls<br>脆皮肉春卷",
-            "Price": "$2.19/pc"
+            "Price": "$5.99"
         },
         {
             "Name": "Salt & Pepper Duck Head<br>椒鹽鴨頭",
@@ -103,6 +99,18 @@
             "Price": "$12.99 "
         },
         {
+            "Name": "Salt & Pepper Chicken Wings<br>椒鹽雞翼",
+            "Price": "$12.99 "
+        },
+        {
+            "Name": "Salt & Pepper Shrimp w/ Shell<br>椒鹽有殼蝦",
+            "Price": "$12.99 "
+        },
+        {
+            "Name": "Salt & Pepper Shrimp (No Shell)<br>椒鹽蝦球",
+            "Price": "$14.99 "
+        },
+        {
             "Name": "Salt & Pepper Spare Ribs<br>椒鹽排骨",
             "Price": "$14.99 "
         },
@@ -119,6 +127,10 @@
             "Price": "$7.99 "
         },
         {
+            "Name": "Marinated Duck Neck<br>滷水鴨脖",
+            "Price": "$7.99 "
+        },
+        {
             "Name": "Marinated Duck Wings<br>滷水鴨翼",
             "Price": "$7.99 "
         },
@@ -126,10 +138,7 @@
             "Name": "Seasoned Chicken Gizzards<br>香辣雞胗",
             "Price": "$7.99 "
         },
-        {
-            "Name": "Fried Chicken Wings <br>脆炸雞翼",
-            "Price": "$12.99 "
-        },
+
         {
             "Name": "Crispy Pork Intestine<br>脆皮炸大腸",
             "Price": "$15.99 "
@@ -140,7 +149,7 @@
         },
         {
             "Name": "Marinated Platter<br>滷水拼盤",
-            "Price": "$26.99 "
+            "Price": "$24.99 "
         },
         {
             "Name": "Marinated Duck Tongue <br>滷水鴨舌",
@@ -152,6 +161,14 @@
         }
     ],
     "Soup": [
+         {
+            "Name": "Egg Drop Soup<br>蛋花湯",
+            "Price": "$8.99 "
+        },
+        {
+            "Name": "Wonton Soup<br>雲吞湯",
+            "Price": "$10.99 "
+        },
         {
             "Name": "Chicken w/ Sweet Corn Soup<br>雞茸粟米羹",
             "Price": "$10.99 "
@@ -165,35 +182,15 @@
             "Price": "$10.99 "
         },
         {
-            "Name": "House Special Seafood Soup<br>海皇滑豆腐羹",
-            "Price": "$13.99 "
-        },
-        {
             "Name": "Fish Maw w/ Crab Meat Soup<br>蟹肉魚肚滑豆腐羹",
             "Price": "$14.99 "
-        },
-        {
-            "Name": "Clam Soup<br>生滾蜆湯",
-            "Price": "$14.99 "
-        },
-        {
-            "Name": "Lobster Soup<br>生滾龍蝦湯",
-            "Price": "Seasonal"
-        },
-        {
-            "Name": "Sea Cucumber w/ Fresh Vegetable<br>紅燒刺參",
-            "Price": "$59.99 "
-        },
-        {
-            "Name": "Braised Whole Abalone w/ Oyster Sauce<br>蠔皇原隻鮑魚",
-            "Price": "$119.99 "
         }
     ],
     "Party": [
         {
             "Name": "Party A",
-            "Price": "$168.00 ",
-            "Desc": "Peking Duck(正宗北京片皮鴨)<br>Duck Soup w/ Vegetables(生滾滋味鴨湯)<br>Salt & Pepper Shrimp in Shell(椒鹽焗中蝦)<br>Sizzling Beef Fillet w/ Black Pepper Sauce(鐵板黑椒牛柳)<br>Clam w/ Black Bean Sauce(豉椒炒蜆)<br>Fish Fillet in Sichuan Style(水煮魚片)<br>Youngcho Fried Rice(揚州炒飯)"
+            "Price": "$218.00 ",
+            "Desc": "Peking Duck(正宗北京片皮鴨)<br>Xiao Long Bao(小籠包)<br>Salt & Pepper Shrimp(椒鹽蝦)<br>Sizzling Beef Fillet w/ Black Pepper Sauce(鐵板黑椒牛柳)<br>Half Shell Abalone w/ Black Bean Sauce(豉汁蒸原隻鮑魚)<br>Sichuan Boiled Fish Fillet in Spicy Broth(水煮魚片)<br>Youngcho Fried Rice(揚州炒飯)"
         },
         {
             "Name": "Party B",
