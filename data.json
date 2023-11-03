@@ -428,19 +428,30 @@
             "Price": "$15.99 "
         },
         {
-            "Name": "Triple Mushrooms w/ Vegetable<br>三茹扒菜膽",
+            "Name": "Triple Mushrooms w/ Vegetable<br>三菇扒菜膽",
             "Price": "$19.99 "
         }
     ],
     "Rice_Noodle": [
         {
-            "Name": "Sichuan Style Udon<br>四川湯烏冬",
-            "Price": "$10.99 ",
-            "Desc": "Optional:\r\n<br>Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Add Shrimp (加蝦) - $5.00"
+            "Name": "Spicy & Sour Udon Soup w/ Beef<br>酸辣牛肉湯烏冬",
+            "Price": "$12.99"
+        },
+        {
+            "Name": "Spicy & Sour Udon Soup w/ Chicken<br>酸辣雞肉湯烏冬",
+            "Price": "$12.99"
+        },
+        {
+            "Name": "Spicy & Sour Udon Soup w/ Shrimp<br>酸辣蝦球湯烏冬",
+            "Price": "$15.99"
         },
         {
             "Name": "Wonton Noodle Soup<br>雲吞麵",
             "Price": "$12.99 "
+        },
+        {
+            "Name": "Vegetables Lo Mein<br>素菜撈麵",
+            "Price": "$10.99 "
         },
         {
             "Name": "Beef Lo Mein<br>牛肉撈麵",
@@ -451,12 +462,8 @@
             "Price": "$12.99 "
         },
         {
-            "Name": "Beef Chow Mein<br>牛肉炒麵",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Chicken Chow Mein<br>雞肉炒麵",
-            "Price": "$12.99 "
+            "Name": "Shrimp Lo Mein<br>蝦球撈麵",
+            "Price": "$15.99 "
         },
         {
             "Name": "Satay Beef Udon Soup<br>沙嗲牛肉湯烏冬",
@@ -464,31 +471,47 @@
         },
         {
             "Name": "Sizzling Udon & Chicken w/ Satay Sauce<br>鐵板沙嗲滑雞烏冬",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Rice Stick Noodle w/ Beef<br>牛肉炒米粉",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Rice Stick Noodle w/ Chicken<br>雞肉炒米粉",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Rice Stick Noodle w/ Shrimp<br>蝦仁炒米粉",
-            "Price": "$13.99 "
-        },
-        {
-            "Name": "Curry Rice Stick Noodle w/ Shrimp & Chicken<br>咖哩蝦仁雞肉炒米粉",
             "Price": "$13.99 "
         },
         {
             "Name": "Flat Rice Noodle w/ Beef<br>乾炒牛肉河粉",
-            "Price": "$13.99 "
+            "Price": "$12.99 "
         },
         {
             "Name": "Flat Rice Noodle w/ Chicken<br>乾炒雞肉河粉",
+            "Price": "$12.99 "
+        },
+         {
+            "Name": "Flat Rice Noodle w/ Shrimp<br>蝦球乾炒河粉",
+            "Price": "$15.99 "
+        },
+        {
+            "Name": "Vegetables Pan-fried Noodle<br>素菜煎麵",
+            "Price": "$12.99 "
+        },
+        {
+            "Name": "Beef Pan-fried Noodle<br>牛肉煎麵",
             "Price": "$13.99 "
+        },
+        {
+            "Name": "Chicken Pan-fried Noodle<br>雞肉煎麵",
+            "Price": "$13.99 "
+        },
+        {
+            "Name": "Shrimp Pan-fried Noodle<br>蝦球煎麵",
+            "Price": "$15.99 "
+        },
+        {
+            "Name": "Pork Ribs w/ Black Bean Sauce on Rice<br>豉汁排骨竹桶飯",
+            "Price": "$16.99 "
+        },
+        {
+            "Name": "Beef w/ B.B.Q. Sauce on Rice<br>燒汁牛肉竹桶飯",
+            "Price": "$16.99 "
+        },
+         {
+            "Name": "Vegetable Fried Rice<br>素菜炒飯",
+            "Price": "$10.99 "
         },
         {
             "Name": "Chicken Fried Rice<br>雞肉炒飯",
@@ -501,10 +524,6 @@
         {
             "Name": "B.B.Q. Pork Fried Rice<br>叉燒炒飯",
             "Price": "$11.99 "
-        },
-        {
-            "Name": "Pineapple & Chicken Fried Rice<br>菠蘿雞粒炒飯",
-            "Price": "$12.99 "
         },
         {
             "Name": "Shrimp Fried Rice<br>鮮蝦炒飯",
@@ -523,6 +542,10 @@
             "Price": "$15.99 "
         },
         {
+            "Name": "Soft Shell Crab w/ Dry Scallop Fried Rice<br>軟殼蟹瑤柱炒飯",
+            "Price": "$22.99 "
+        },
+        {
             "Name": "Steamed Rice<br>絲苗米飯",
             "Price": "$1.50/Bowl (碗)<br>$6.00 (桶)"
         }
@@ -534,7 +557,7 @@
         },
         {
             "Name": "Sparkling Water<br>汽泡水",
-            "Price": "$４.99 "
+            "Price": "$4.99 "
         },
         {
             "Name": "Soft Drinks<br>各式汽水",
@@ -550,11 +573,11 @@
             "Price": "$3.99 "
         },
         {
-            "Name": "Mexican Coke<br>墨西哥可樂",
+            "Name": "Mexican Coke<br>樽裝可樂",
             "Price": "$6.99 "
         },
         {
-            "Name": "ITO EN Oi Ocha Unsweetened Green Tea<br>伊藤園無糖綠茶",
+            "Name": "ITO EN Unsweetened Green Tea<br>伊藤園無糖綠茶",
             "Price": "$5.99 "
         },
         {
