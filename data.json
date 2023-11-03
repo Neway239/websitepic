@@ -594,20 +594,20 @@
             "Price": "$4.99 "
         },
         {
-            "Name": "Hot Tea Cup<br>熱茶 (杯)",
+            "Name": "Hot Tea (Cup)<br>熱茶 (杯)",
             "Price": "$3.99 "
         },
         {
             "Name": "Iced Green Tea<br>凍綠茶 ",
             "Price": "$5.99 ",
-            "Desc": "Jasmine 茉莉花<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰<br>Lychee 荔枝"
+            "Desc": "Jasmine 茉莉花<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰"
         },
         {
             "Name": "Ice Lemon Tea<br>凍檸茶",
             "Price": "$5.99 "
         },
         {
-            "Name": "Black Coffee (Hot or Cold)<br>黑咖啡 (熱, 凍)",
+            "Name": "Coffee (Hot or Cold)<br>咖啡 (熱, 凍)",
             "Price": "$5.99 "
         },
         {
@@ -652,6 +652,14 @@
         {
             "Name": "Cashew<br>腰果",
             "Price": "$9.99 "
+        },
+         {
+            "Name": "Shredded Squid<br>魷魚絲",
+            "Price": "$12.99"
+        },
+         {
+            "Name": "Fresh Fruit<br>時令水果",
+            "Price": "Seasonal"
         }
     ],
     "Popular_Items": [
