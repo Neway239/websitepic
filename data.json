@@ -200,15 +200,11 @@
     ],
     "Seafood": [
         {
-            "Name": "Salt & Pepper Shrimp in Shell<br>椒鹽焗中蝦",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Stir-fried Squid w/ Shrimp Paste<br>蝦醬爆鮮魷魚",
+            "Name": "Calamari w/ X.O. Sauce<br>X.O.醬爆花枝",
             "Price": "$14.99 "
         },
-        {
-            "Name": "Calamari w/ X.O. Sauce<br>X.O.醬爆花枝",
+          {
+            "Name": "Stir-fried Squid w/ Preserved Vegetable<br>酸菜鮮魷魚",
             "Price": "$14.99 "
         },
         {
@@ -220,10 +216,6 @@
             "Price": "$15.99 "
         },
         {
-            "Name": "Cashew Shrimp<br>腰果蝦球",
-            "Price": "$15.99 "
-        },
-        {
             "Name": "Clam w/ Black Bean Sauce<br>豉椒炒蜆",
             "Price": "$14.99 "
         },
@@ -232,27 +224,11 @@
             "Price": "$15.99 "
         },
         {
-            "Name": "Clam w/ Japanese Wine<br>清酒煮蜆",
-            "Price": "$15.99 "
-        },
-        {
-            "Name": "Crispy Oyster<br>脆炸生蠔",
-            "Price": "$15.99 "
-        },
-        {
-            "Name": "Oyster w/ Golden Egg<br>金沙生蠔",
-            "Price": "$17.99 "
-        },
-        {
-            "Name": "Stir-fried Fish Fillet<br>油泡斑球",
-            "Price": "$14.99 "
-        },
-        {
-            "Name": "Fish Fillet in Sichuan Style<br>水煮魚片",
+            "Name": "Sichuan Boiled Fish Fillet in Spicy Broth<br>水煮魚片",
             "Price": "$16.99 "
         },
         {
-            "Name": "Lobster Sashimi<br>龍蝦刺身 ",
+            "Name": "Half Shell Abalone (Original / Black Bean Sauce)<br>原隻鮑魚(原味/豉汁)",
             "Price": "Seasonal"
         },
         {
@@ -272,7 +248,7 @@
             "Price": "Seasonal"
         },
         {
-            "Name": "Sizzling Lobster w/ Black Pepper & Beer<br>鐵板黑椒啤酒龍蝦",
+            "Name": "Lobster w/ Black Pepper & Beer<br>黑椒啤酒龍蝦",
             "Price": "Seasonal"
         },
         {
@@ -330,7 +306,15 @@
             "Price": "$14.99 "
         },
         {
-            "Name": "Beef in Sichuan Style<br>水煮牛肉",
+            "Name": "Beef w/ Preserved Vegetable<br>酸菜牛肉",
+            "Price": "$14.99 "
+        },
+        {
+            "Name": "Beef w/ Orange Peel<br>陳皮牛肉",
+            "Price": "$14.99 "
+        },
+        {
+            "Name": "Sichuan Boiled Fish Fillet in Spicy Broth<br>水煮牛肉",
             "Price": "$16.99 "
         },
         {
@@ -390,7 +374,7 @@
         },
         {
             "Name": "Peking Duck<br>正宗北京片皮鴨",
-            "Price": "$45.99 ",
+            "Price": "$46.99 ",
             "Desc": "Optional 2nd Course:\r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $8.99 \r\n<br>\r\nDuck Soup (鴨湯) ------------------ $8.99\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ---- $9.99"
         }
     ],
