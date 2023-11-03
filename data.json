@@ -474,11 +474,11 @@
         },
         {
             "Name": "Flat Rice Noodle w/ Beef<br>乾炒牛肉河粉",
-            "Price": "$12.99 "
+            "Price": "$13.99 "
         },
         {
             "Name": "Flat Rice Noodle w/ Chicken<br>乾炒雞肉河粉",
-            "Price": "$12.99 "
+            "Price": "$13.99 "
         },
          {
             "Name": "Flat Rice Noodle w/ Shrimp<br>蝦球乾炒河粉",
@@ -546,7 +546,7 @@
         },
         {
             "Name": "Steamed Rice<br>絲苗米飯",
-            "Price": "$1.50/Bowl (碗)<br>$6.00 (桶)"
+            "Price": "$1.50/Bowl (碗)<br>$6.00/Bucket (桶)"
         }
     ],
     "Soft_Drinks": [
