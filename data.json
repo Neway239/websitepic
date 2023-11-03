@@ -314,7 +314,7 @@
             "Price": "$14.99 "
         },
         {
-            "Name": "Sichuan Boiled Fish Fillet in Spicy Broth<br>水煮牛肉",
+            "Name": "Sichuan Boiled Beef in Spicy Broth<br>水煮牛肉",
             "Price": "$16.99 "
         },
         {
@@ -357,16 +357,12 @@
             "Price": "$12.99 "
         },
         {
-            "Name": "Chicken w/ Thousand Cook<br>古法蒜香雞球",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Princess Chicken<br>瑤柱貴妃雞",
-            "Price": "$18.99 "
+            "Name": "Princess Chicken (Cold)<br>瑤柱貴妃雞",
+            "Price": "$19.99 "
         },
         {
             "Name": "Steamed Chicken w/ Shredded Onion<br>蔥油淋雞",
-            "Price": "$19.99 "
+            "Price": "$21.99 "
         },
         {
             "Name": "Roasted Duck<br>明爐燒鴨 ",
@@ -375,28 +371,17 @@
         {
             "Name": "Peking Duck<br>正宗北京片皮鴨",
             "Price": "$46.99 ",
-            "Desc": "Optional 2nd Course:\r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $8.99 \r\n<br>\r\nDuck Soup (鴨湯) ------------------ $8.99\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ---- $9.99"
+            "Desc": "Optional Add-on(另加):\r\n<br>
+            Gua Bao(刈包) ----- $1 each \r\n<br>Cucumber(青瓜絲) ----- $1 each \r\n<br>Scallion(蔥絲) ----- $1 each \r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $9.99 each \r\n<br>\r\nDuck Soup w/ Vegetables (鴨湯) ------------------ $9.99 each\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ---- $9.99 each"
         }
     ],
     "Hot_Pot": [
         {
-            "Name": "Sizzling Chicken Hot Pot<br>砂窩雞煲",
+            "Name": "Curry Chicken Hot Pot<br>咖哩雞煲",
             "Price": "$12.99 "
         },
         {
-            "Name": "Curry Chicken Hot Pot<br>椰香咖哩雞煲",
-            "Price": "$12.99 "
-        },
-        {
-            "Name": "Taro & Chicken Hot Pot<br>香芋滑雞煲",
-            "Price": "$13.99 "
-        },
-        {
-            "Name": "Salted Fish & Chicken Tofu Hot Pot<br>鹹魚雞粒豆腐煲",
-            "Price": "$16.99 "
-        },
-        {
-            "Name": "Eggplant w/ Garlic Sauce Hot Pot<br>魚香茄子煲",
+            "Name": "Eggplant w/ Garlic Sauce Hot Pot (w/ Meat)<br>魚香茄子煲",
             "Price": "$12.99 "
         },
         {
@@ -408,6 +393,10 @@
             "Price": "$15.99 "
         },
         {
+            "Name": "Salted Fish & Chicken Tofu Hot Pot<br>鹹魚雞粒豆腐煲",
+            "Price": "$16.99 "
+        },
+        {
             "Name": "Beef Brisket Hot Pot<br>秘製牛腩煲",
             "Price": "$17.99 "
         }
@@ -416,7 +405,7 @@
         {
             "Name": "Seasonal Vegetable<br>時菜",
             "Price": "Seasonal",
-            "Desc": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli<br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>(Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 生菜, 西蘭花<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
+            "Desc": "Snow Pea Leaves, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Broccoli, Bean Sprout<br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce, Fermented Bean Curd)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 西蘭花, 芽菜<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 蠔油, 腐乳)"
         },
         {
             "Name": "Stir-fried Shredded Potato<br>香辣土豆絲",
@@ -430,9 +419,17 @@
             "Name": "Crispy Golden Tofu<br>黃金脆豆腐",
             "Price": "$12.99 "
         },
+         {
+            "Name": "Hong Kong Style Tofu w/ Chicken<br>香煎秘制豆腐",
+            "Price": "$12.99 "
+        },
         {
-            "Name": "Vegetable Delight<br>鼎湖羅漢齋",
-            "Price": "$14.99 "
+            "Name": "Japanese Egg Tofu<br>玉子豆腐",
+            "Price": "$15.99 "
+        },
+        {
+            "Name": "Triple Mushrooms w/ Vegetable<br>三茹扒菜膽",
+            "Price": "$19.99 "
         }
     ],
     "Rice_Noodle": [
