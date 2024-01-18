@@ -2,23 +2,23 @@
     "Dimsum": [
         {
             "Name": "Handmade BBQ Pork Buns<br>手工叉燒包",
-            "Price": "5.99 "
+            "Price": "6.99 "
         },
         {
             "Name": "Sesame Balls<br>芝麻球",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Golden Fried Buns<br>炸饅頭",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Custard Buns<br>流沙包",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Birthday Buns<br>壽桃",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Shrimp Dumplings<br>蝦餃",
@@ -26,15 +26,15 @@
         },
         {
             "Name": "Shumai<br>燒賣",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Chicken Feet w/ Black Bean Sauce<br>豉汁鳳爪",
-            "Price": "$5.99 "
+            "Price": "$6.99 "
         },
         {
             "Name": "Xiao Long Bao<br>小籠包",
-            "Price": "$9.99 "
+            "Price": "$11.99 "
         }
     ],
     "Appetizer": [
