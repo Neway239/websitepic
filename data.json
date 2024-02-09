@@ -602,7 +602,7 @@
             "Desc": "Jasmine 茉莉花<br>Mango 芒果<br>Passion Fruit 百香果<br>Rose 玫瑰"
         },
         {
-            "Name": "Ice Lemon Tea<br>凍檸茶",
+            "Name": "Iced Lemon Tea<br>凍檸茶",
             "Price": "$5.99 "
         },
         {
@@ -930,7 +930,7 @@
         {
             "Name": "Buttery Nipples",
             "Price": "9.50",
-            "Desc": "Butterschotch Schnapps<br>Bailey's"
+            "Desc": "Butterscotch Schnapps<br>Bailey's"
         },
         {
             "Name": "Chocolate Cake",
@@ -950,7 +950,7 @@
         {
             "Name": "Golden Apple",
             "Price": "9.50",
-            "Desc": "Gold Schlager<br>Apple Schnapps"
+            "Desc": "Goldschlager<br>Apple Schnapps"
         },
         {
             "Name": "Green Tea Shot",
@@ -1004,11 +1004,11 @@
             "Price": "$29.00 "
         },
         {
-            "Name": "Copper Ridge Melot'",
+            "Name": "Copper Ridge Merlot",
             "Price": "$29.00 "
         },
         {
-            "Name": "Copper Ridge Chardonnay'",
+            "Name": "Copper Ridge Chardonnay",
             "Price": "$29.00 "
         },
         {
