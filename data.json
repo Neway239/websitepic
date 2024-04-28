@@ -960,11 +960,11 @@
     ],
     "Sake": [
         {
-            "Name": "House Sake"
+            "Name": "House Sake",
             "Desc": "Pitcher"
         },
         {
-            "Name": "Sho Chiku Bai Nigori"
+            "Name": "Sho Chiku Bai Nigori",
             "Desc": "Unfiltered Sake"
         },
         {
