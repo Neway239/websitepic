@@ -705,53 +705,41 @@
     ],
     "Beer": [
         {
-            "Name": "Miller Lite",
-            "Price": "$4.99 "
+            "Name": "Miller Lite"
         },
         {
-            "Name": "Bud Light",
-            "Price": "$4.99 "
+            "Name": "Bud Light"
         },
         {
-            "Name": "Budweiser",
-            "Price": "$4.99 "
+            "Name": "Budweiser"
         },
         {
-            "Name": "Corona",
-            "Price": "$5.99 "
+            "Name": "Corona"
         },
         {
-            "Name": "Dos Equis",
-            "Price": "$5.99 "
+            "Name": "Dos Equis"
         },
         {
-            "Name": "Shiner Bock",
-            "Price": "$5.99 "
+            "Name": "Shiner Bock"
         },
         {
-            "Name": "Heineken",
-            "Price": "$5.99 "
+            "Name": "Heineken"
         },
         {
-            "Name": "Blue Moon",
-            "Price": "$5.99 "
+            "Name": "Blue Moon"
         },
         {
             "Name": "Smirnoff",
-            "Price": "$5.99 ",
             "Desc": "Original"
         },
         {
-            "Name": "Sapporo",
-            "Price": "$5.99 "
+            "Name": "Sapporo"
         },
         {
-            "Name": "Tsingtao",
-            "Price": "$5.99 "
+            "Name": "Tsingtao"
         },
         {
-            "Name": "Stella Artois",
-            "Price": "$5.99 "
+            "Name": "Stella Artois"
         }
     ],
     "Hard_Liquor": [
@@ -787,253 +775,203 @@
     "Mixed_Drinks": [
         {
             "Name": "Apple Martini ",
-            "Price": "12.50",
             "Desc": "Vodka<br>Apple Schnapps"
         },
         {
             "Name": "Amaretto Sour",
-            "Price": "9.50",
             "Desc": "Amaretto<br>Sweet & Sour"
         },
         {
             "Name": "Bermuda Triangle",
-            "Price": "9.50",
             "Desc": "Spiced Rum<br>Peach Schnapps<br>Orange Juice"
         },
         {
             "Name": "Blue Hawaiian",
-            "Price": "9.50",
             "Desc": "Malibu<br>Rum<br>Blue Curacao<br>Pineapple Juice"
         },
         {
             "Name": "Black Russian",
-            "Price": "9.50",
             "Desc": "Vodka<br>Kahlua"
         },
         {
             "Name": "Caramel Coke",
-            "Price": "9.50",
             "Desc": "Butterscotch Schnapps<br>Coke"
         },
         {
             "Name": "Cosmopolitan",
-            "Price": "12.50",
             "Desc": "Vodka<br>Grand Marnier<br>Cranberry Juice<br>Squeezed Lime"
         },
         {
             "Name": "Godfather",
-            "Price": "9.50",
             "Desc": "Scotch Whisky<br>Amaretto"
         },
         {
             "Name": "Hurricane",
-            "Price": "9.50",
             "Desc": "Light Rum<br>Dark Rum<br>Pineapple Juice<br>Orange Juice<br>151<br>Grenadine"
         },
         {
             "Name": "Long Island",
-            "Price": "9.50",
             "Desc": "Vodka<br>Gin<br>Tequila<br>Rum<br>Triple Sec<br>Sweet & Sour<br>Coke"
         },
         {
             "Name": "Malibu Pineapple",
-            "Price": "9.50",
             "Desc": "Malibu<br>Pineapple Juice"
         },
         {
             "Name": "Mangotini",
-            "Price": "12.50",
             "Desc": "Vodka<br>Mango Schnapps<br>Mango Syrup"
         },
         {
             "Name": "Mango Sunrise",
-            "Price": "9.50",
             "Desc": "Mango Schnapps<br>Orange Juice<br>Grenadine"
         },
         {
             "Name": "Margarita",
-            "Price": "9.50",
             "Desc": "Tequila<br>Margarita Mix<br>Salt Rim"
         },
         {
             "Name": "Midori Melon Ball",
-            "Price": "9.50",
             "Desc": "Midori<br>Vodka<br>Orange Juice"
         },
         {
             "Name": "Midori Sour ",
-            "Price": "9.50",
             "Desc": "Midori<br>Sweet & Sour"
         },
         {
             "Name": "Pineapple Upside Down",
-            "Price": "12.50",
             "Desc": "Malibu<br>Pineapple Juice<br>Grenadine"
         },
         {
             "Name": "Pink Fizzy",
-            "Price": "9.50",
             "Desc": "Watermelon Schnapps<br>Soda/Sprite"
         },
         {
             "Name": "Screwdriver",
-            "Price": "9.50",
             "Desc": "Vodka<br>Orange Juice"
         },
         {
             "Name": "Sex on the Beach",
-            "Price": "12.50",
             "Desc": "Vodka<br>Peach Schnapps<br>Cranberry & Orange Juice"
         },
         {
             "Name": "Tequila Sunrise",
-            "Price": "9.50",
             "Desc": "Tequila<br>Orange Juice<br>Grenadine"
         },
         {
             "Name": "Triple Sec Sunrise",
-            "Price": "9.50",
             "Desc": "Triple Sec<br>Orange Juice<br>Grenadine"
         }
     ],
     "Shooters": [
         {
             "Name": "3 Wise Men",
-            "Price": "9.50",
             "Desc": "Jager<br>Rumple Minze<br>151"
         },
         {
             "Name": "5 Stars ",
-            "Price": "12.50",
             "Desc": "Jager<br>Goldschlager<br>Rumple Minze<br>Tequila<br>151  "
         },
         {
             "Name": "B52",
-            "Price": "9.50",
             "Desc": "Kahlua<br>Bailey's, Grand Marnier<br>151"
         },
         {
             "Name": "Blow Job",
-            "Price": "9.50",
             "Desc": "Frangelico<br>Bailey's"
         },
         {
             "Name": "BLT",
-            "Price": "12.50",
             "Desc": "X-Rated<br>Hpnotiq"
         },
         {
             "Name": "Blue Lamborghini",
-            "Price": "9.50",
             "Desc": "Blue Curacao<br>151"
         },
         {
             "Name": "Buttery Nipples",
-            "Price": "9.50",
             "Desc": "Butterscotch Schnapps<br>Bailey's"
         },
         {
             "Name": "Chocolate Cake",
-            "Price": "9.50",
             "Desc": "Frangelico<br>Citrus Vodka<br>Sugared Lemon"
         },
         {
             "Name": "Deep Ocean",
-            "Price": "9.50",
             "Desc": "Blue Curacao<br>Hpnotiq"
         },
         {
             "Name": "Flaming Dr. Pepper",
-            "Price": "12.50",
             "Desc": "Beer<br>Amaretto<br>151"
         },
         {
             "Name": "Golden Apple",
-            "Price": "9.50",
             "Desc": "Goldschlager<br>Apple Schnapps"
         },
         {
             "Name": "Green Tea Shot",
-            "Price": "12.50",
             "Desc": "Jameson<br>Peach Schnapps<br>Sweet & Sour<br>Sprite"
         },
         {
             "Name": "Incredible Hulk",
-            "Price": "14.50",
             "Desc": "Hennessy<br>Hpnotiq"
         },
         {
             "Name": "Jager Bomb",
-            "Price": "9.50",
             "Desc": "Jager<br>Red Bull"
         },
         {
             "Name": "Lemon Drop",
-            "Price": "9.50",
             "Desc": "Citrus Vodka<br>Lemon Juice<br>Sugar"
         },
         {
             "Name": "Jolly Rancher",
-            "Price": "9.50",
             "Desc": "Watermelon Schnapps<br>Apple Schnapps<br>Cranberry Juice"
         },
         {
             "Name": "Sake Bomb",
-            "Price": "12.50",
             "Desc": "Beer<br>Sake"
         },
         {
             "Name": "Soju Bomb",
-            "Price": "12.50",
             "Desc": "Beer<br>Soju"
         },
         {
             "Name": "Watermelon Shooter",
-            "Price": "9.50",
             "Desc": "Vodka<br>Watermelon Schnapps"
         },
         {
             "Name": "Windex",
-            "Price": "9.50",
             "Desc": "Vodka<br>Blue Curacao<br>Sweet & Sour"
         }
     ],
     "Wine": [
         {
-            "Name": "Copper Ridge Cabernet",
-            "Price": "$29.00 "
+            "Name": "Copper Ridge Cabernet"
         },
         {
-            "Name": "Copper Ridge Merlot",
-            "Price": "$29.00 "
+            "Name": "Copper Ridge Merlot"
         },
         {
-            "Name": "Copper Ridge Chardonnay",
-            "Price": "$29.00 "
+            "Name": "Copper Ridge Chardonnay"
         },
         {
-            "Name": "BV Coastal Merlot 16'",
-            "Price": "$39.00 "
+            "Name": "BV Coastal Merlot 16'"
         }
     ],
     "Sake": [
         {
-            "Name": "House Sake",
-            "Price": "$12.00 ",
+            "Name": "House Sake"
             "Desc": "Pitcher"
         },
         {
-            "Name": "Sho Chiku Bai Nigori",
-            "Price": "$15.00 ",
+            "Name": "Sho Chiku Bai Nigori"
             "Desc": "Unfiltered Sake"
         },
         {
-            "Name": "Hana Lychee Sake",
-            "Price": "$18.00 "
+            "Name": "Hana Lychee Sake"
         },
         {
             "Name": "Soju",
-            "Price": "$25.00 ",
             "Desc": "Original<br>Plum<br>Peach<br>Green Grape<br>Grapefruit<br>Strawberry"
         }
     ]
