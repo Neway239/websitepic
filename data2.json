@@ -37,7 +37,7 @@
   "Price": "$6.99"
  },
  {
-  "Name": "Chicken Feet w\ Black Bean Sauce<br>豉汁鳳爪",
+  "Name": "Chicken Feet w\/ Black Bean Sauce<br>豉汁鳳爪",
   "Price": "$6.99"
  },
  {
@@ -105,11 +105,11 @@
   "Price": "$9.99"
  },
  {
-  "Name": "Chicken w\ Sweet Corn Soup<br>雞茸粟米羹",
+  "Name": "Chicken w\/ Sweet Corn Soup<br>雞茸粟米羹",
   "Price": "$9.99"
  },
  {
-  "Name": "Minced Beef w\ Egg White Soup<br>西湖牛肉羹",
+  "Name": "Minced Beef w\/ Egg White Soup<br>西湖牛肉羹",
   "Price": "$10.99"
  },
  {
@@ -117,25 +117,25 @@
   "Price": "$12.99"
  },
  {
-  "Name": "Fish Fillet w\ Preserved Vegetable Soup<br>酸菜魚片湯",
+  "Name": "Fish Fillet w\/ Preserved Vegetable Soup<br>酸菜魚片湯",
   "Price": "$14.99"
  },
  {
-  "Name": "Fish Maw w\ Crab Meat Soup<br>蟹肉魚肚滑豆腐羹",
+  "Name": "Fish Maw w\/ Crab Meat Soup<br>蟹肉魚肚滑豆腐羹",
   "Price": "$16.99"
  },
  {
-  "Name": "Sea Cucumber w\ Vegetable<br>紅燒刺參",
+  "Name": "Sea Cucumber w\/ Vegetable<br>紅燒刺參",
   "Price": "$59.99"
  },
  {
-  "Name": "Braised Whole Abalone w\ Oyster Sauce (8pcs)<br>蠔皇原隻鮑魚(八隻)",
+  "Name": "Braised Whole Abalone w\/ Oyster Sauce (8pcs)<br>蠔皇原隻鮑魚(八隻)",
   "Price": "$138.99"
  }
 ],
 "Seafood":[
  {
-  "Name": "Salt & Pepper Shrimp w\ Shell<br>椒鹽中蝦",
+  "Name": "Salt & Pepper Shrimp w\/ Shell<br>椒鹽中蝦",
   "Price": "$12.99"
  },
  {
@@ -143,7 +143,7 @@
   "Price": "$12.99"
  },
  {
-  "Name": "Stir-fried Squid w\ Black Bean Sauce<br>豉椒鮮魷魚",
+  "Name": "Stir-fried Squid w\/ Black Bean Sauce<br>豉椒鮮魷魚",
   "Price": "$12.99"
  },
  {
@@ -155,11 +155,11 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Walnuts Shrimp w\ Mayonnaise Sauce<br>核桃蝦球",
+  "Name": "Walnuts Shrimp w\/ Mayonnaise Sauce<br>核桃蝦球",
   "Price": "$13.99"
  },
  {
-  "Name": "Spicy Shrimp w\ Chili<br>香爆辣子蝦球",
+  "Name": "Spicy Shrimp w\/ Chili<br>香爆辣子蝦球",
   "Price": "$14.99"
  },
  {
@@ -171,11 +171,11 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Shrimp w\ Scrambled Egg<br>滑蛋炒蝦仁",
+  "Name": "Shrimp w\/ Scrambled Egg<br>滑蛋炒蝦仁",
   "Price": "$15.99"
  },
  {
-  "Name": "Sizzling Shrimp w\ Black Pepper<br>鐵板黑椒蝦球",
+  "Name": "Sizzling Shrimp w\/ Black Pepper<br>鐵板黑椒蝦球",
   "Price": "$15.99"
  },
  {
@@ -183,7 +183,7 @@
   "Price": "$11.99"
  },
  {
-  "Name": "Fish Fillet w\ Seasonal Vegetable<br>時菜炒斑球",
+  "Name": "Fish Fillet w\/ Seasonal Vegetable<br>時菜炒斑球",
   "Price": "$13.99"
  },
  {
@@ -191,35 +191,35 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Fish Fillet w\ Twins Cook<br>鴛鴦鮮斑球",
+  "Name": "Fish Fillet w\/ Twins Cook<br>鴛鴦鮮斑球",
   "Price": "$16.99"
  },
  {
-  "Name": "Stuffed Tofu w\ Ground Shrimp<br>百花煎釀豆腐",
+  "Name": "Stuffed Tofu w\/ Ground Shrimp<br>百花煎釀豆腐",
   "Price": "$14.99"
  },
  {
-  "Name": "Stuffed Eggplant w\ Ground Shrimp<br>百花煎釀茄子",
+  "Name": "Stuffed Eggplant w\/ Ground Shrimp<br>百花煎釀茄子",
   "Price": "$14.99"
  },
  {
-  "Name": "Calamari w\ X.O. Sauce<br>X.O.醬爆花枝",
+  "Name": "Calamari w\/ X.O. Sauce<br>X.O.醬爆花枝",
   "Price": "$14.99"
  },
  {
-  "Name": "Clam w\ Black Bean Sauce<br>豉椒炒蜆",
+  "Name": "Clam w\/ Black Bean Sauce<br>豉椒炒蜆",
   "Price": "$14.99"
  },
  {
-  "Name": "Steamed Half Shell Abalone w\ Garlic Sauce<br>蒜蓉蒸原隻帶殼鮑魚",
+  "Name": "Steamed Half Shell Abalone w\/ Garlic Sauce<br>蒜蓉蒸原隻帶殼鮑魚",
   "Price": "$23.99"
  },
  {
-  "Name": "Steamed Half Shell Abalone w\ Black Bean Sauce<br>豉汁蒸原隻帶殼鮑魚",
+  "Name": "Steamed Half Shell Abalone w\/ Black Bean Sauce<br>豉汁蒸原隻帶殼鮑魚",
   "Price": "$23.99"
  },
  {
-  "Name": "Seafood Combination w\ X.O. Sauce in Golden Nest<br>X.O.金巢海中寶",
+  "Name": "Seafood Combination w\/ X.O. Sauce in Golden Nest<br>X.O.金巢海中寶",
   "Price": "$19.99"
  },
  {
@@ -257,11 +257,11 @@
   "Price": "$11.99"
  },
  {
-  "Name": "Shredded Pork w\ Preserved Vegetable<br>酸菜肉絲",
+  "Name": "Shredded Pork w\/ Preserved Vegetable<br>酸菜肉絲",
   "Price": "$12.99"
  },
  {
-  "Name": "Shredded Pork w\ Spicy Garlic Sauce<br>魚香肉絲",
+  "Name": "Shredded Pork w\/ Spicy Garlic Sauce<br>魚香肉絲",
   "Price": "$12.99"
  },
  {
@@ -269,7 +269,7 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Spare Ribs w\ Sweet & Sour Sauce<br>生炒骨",
+  "Name": "Spare Ribs w\/ Sweet & Sour Sauce<br>生炒骨",
   "Price": "$13.99"
  },
  {
@@ -277,7 +277,7 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Spare Ribs Coated w\ Golden Salted Egg<br>酥香金沙骨",
+  "Name": "Spare Ribs Coated w\/ Golden Salted Egg<br>酥香金沙骨",
   "Price": "$14.99"
  },
  {
@@ -285,15 +285,15 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Steamed Minced Pork w\ Preserved Vegetable<br>梅菜蒸肉餅",
+  "Name": "Steamed Minced Pork w\/ Preserved Vegetable<br>梅菜蒸肉餅",
   "Price": "$13.99"
  },
  {
-  "Name": "Steamed Minced Pork w\ Mushroom<br>冬菇蒸肉餅",
+  "Name": "Steamed Minced Pork w\/ Mushroom<br>冬菇蒸肉餅",
   "Price": "$13.99"
  },
  {
-  "Name": "Steamed Minced Pork w\ Salted Fish<br>鹹魚蒸肉餅",
+  "Name": "Steamed Minced Pork w\/ Salted Fish<br>鹹魚蒸肉餅",
   "Price": "$15.99"
  },
  {
@@ -306,13 +306,13 @@
   "Price": "$15.99"
  },
  {
-  "Name": "Pork Intestine w\ Preserved Vegetable<br>酸菜大腸",
+  "Name": "Pork Intestine w\/ Preserved Vegetable<br>酸菜大腸",
   "Price": "$15.99"
  }
 ],
 "Beef":[
  {
-  "Name": "Beef w\ Preserved Vegetable<br>酸菜牛肉",
+  "Name": "Beef w\/ Preserved Vegetable<br>酸菜牛肉",
   "Price": "$13.99"
  },
  {
@@ -328,11 +328,11 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Beef w\ American Broccoli<br>西蘭牛肉",
+  "Name": "Beef w\/ American Broccoli<br>西蘭牛肉",
   "Price": "$13.99"
  },
  {
-  "Name": "Beef w\ Gai Lan<br>芥蘭牛肉",
+  "Name": "Beef w\/ Gai Lan<br>芥蘭牛肉",
   "Price": "$13.99"
  },
  {
@@ -340,11 +340,11 @@
   "Price": "$15.99"
  },
  {
-  "Name": "Beef Fillet w\ Thousand Cook<br>古法蒜香牛柳",
+  "Name": "Beef Fillet w\/ Thousand Cook<br>古法蒜香牛柳",
   "Price": "$15.99"
  },
  {
-  "Name": "Sizzling Beef Fillet w\ Black Pepper<br>鐵板黑椒牛柳",
+  "Name": "Sizzling Beef Fillet w\/ Black Pepper<br>鐵板黑椒牛柳",
   "Price": "$15.99"
  }
 ],
@@ -359,7 +359,7 @@
   "Price": "$19.99"
  },
  {
-  "Name": "Crispy Chicken Topped w\ Garlic (Bone-in)<br>金蒜脆皮雞",
+  "Name": "Crispy Chicken Topped w\/ Garlic (Bone-in)<br>金蒜脆皮雞",
   "Price": "$12.99"
  },
  {
@@ -367,7 +367,7 @@
   "Price": "$19.99"
  },
  {
-  "Name": "Steamed Chicken Topped w\ Ginger & Onion (Bone-in)<br>金牌蔥油淋雞",
+  "Name": "Steamed Chicken Topped w\/ Ginger & Onion (Bone-in)<br>金牌蔥油淋雞",
   "Price": "$20.99"
  },
  {
@@ -391,11 +391,11 @@
   "Price": "$11.99"
  },
  {
-  "Name": "Chicken w\ Garden Vegetable<br>時菜雞球",
+  "Name": "Chicken w\/ Garden Vegetable<br>時菜雞球",
   "Price": "$12.99"
  },
  {
-  "Name": "Stir-fried Chicken w\ Chili<br>辣子雞",
+  "Name": "Stir-fried Chicken w\/ Chili<br>辣子雞",
   "Price": "$12.99"
  },
  {
@@ -403,13 +403,13 @@
   "Price": "$12.99"
  },
  {
-  "Name": "Sizzling Chicken w\ Black Pepper<br>鐵板黑椒雞球",
+  "Name": "Sizzling Chicken w\/ Black Pepper<br>鐵板黑椒雞球",
   "Price": "$13.99"
  }
 ],
 "Hotpot":[
  {
-  "Name": "Eggplant w\ Garlic Sauce Hot Pot w\ Meat<br>魚香茄子煲",
+  "Name": "Eggplant w\/ Garlic Sauce Hot Pot w\/ Meat<br>魚香茄子煲",
   "Price": "$11.99"
  },
  {
@@ -417,15 +417,15 @@
   "Price": "$12.99"
  },
  {
-  "Name": "Fish Fillet w\ Black Pepper Hot Pot<br>黑椒斑球煲",
+  "Name": "Fish Fillet w\/ Black Pepper Hot Pot<br>黑椒斑球煲",
   "Price": "$13.99"
  },
  {
-  "Name": "Fish Fillet w\ Tofu Hot Pot<br>豆腐斑球煲",
+  "Name": "Fish Fillet w\/ Tofu Hot Pot<br>豆腐斑球煲",
   "Price": "$14.99"
  },
  {
-  "Name": "Beef w\ Satay Hot Pot<br>沙嗲牛肉煲",
+  "Name": "Beef w\/ Satay Hot Pot<br>沙嗲牛肉煲",
   "Price": "$13.99"
  },
  {
@@ -446,7 +446,7 @@
   "Name": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli Seasonal (Stir-fried, Garlic, Healthy Soup, Oyster Sauce, Shrimp Paste)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 芥菜, 生菜, 西蘭花    時價(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳, 蝦醬…)"
  },
  {
-  "Name": "Bitter Melon w\ Pan-fried Egg<br>涼瓜煎蛋",
+  "Name": "Bitter Melon w\/ Pan-fried Egg<br>涼瓜煎蛋",
   "Price": "$13.99"
  },
  {
@@ -454,11 +454,11 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Triple Mushrooms w\ Vegetable<br>蠔油三菇扒菜膽",
+  "Name": "Triple Mushrooms w\/ Vegetable<br>蠔油三菇扒菜膽",
   "Price": "$16.99"
  },
  {
-  "Name": "Vegetable w\ Healthy Soup<br>上湯杞子浸時蔬",
+  "Name": "Vegetable w\/ Healthy Soup<br>上湯杞子浸時蔬",
   "Price": "Seasonal"
  },
  {
@@ -470,19 +470,19 @@
   "Price": "$10.99"
  },
  {
-  "Name": "Ma Poh Tofu w\ Meat<br>麻婆滑豆腐",
+  "Name": "Ma Poh Tofu w\/ Meat<br>麻婆滑豆腐",
   "Price": "$10.99"
  },
  {
-  "Name": "Crispy Tofu Coated w\ Golden Salted Egg<br>黃金脆豆腐",
+  "Name": "Crispy Tofu Coated w\/ Golden Salted Egg<br>黃金脆豆腐",
   "Price": "$11.99"
  },
  {
-  "Name": "Fried Tofu w\ Ground Shrimp<br>炸釀豆腐",
+  "Name": "Fried Tofu w\/ Ground Shrimp<br>炸釀豆腐",
   "Price": "$14.99"
  },
  {
-  "Name": "Japanese Egg Tofu w\ Special Cook<br>普寧玉子豆腐",
+  "Name": "Japanese Egg Tofu w\/ Special Cook<br>普寧玉子豆腐",
   "Price": "$14.99"
  }
 ],
@@ -496,11 +496,11 @@
   "Price": "$7.99"
  },
  {
-  "Name": "Pork w\ Thousand Egg Congee<br>皮蛋瘦肉粥",
+  "Name": "Pork w\/ Thousand Egg Congee<br>皮蛋瘦肉粥",
   "Price": "$9.99"
  },
  {
-  "Name": "Whole Abalone w\ Chicken Congee<br>原隻鮑魚雞粥",
+  "Name": "Whole Abalone w\/ Chicken Congee<br>原隻鮑魚雞粥",
   "Price": "$38.99"
  },
  {
@@ -544,7 +544,7 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Fried Rice w\ Crab Meat, Dry Scallop & Egg White<br>瑤柱蟹肉蛋白炒飯",
+  "Name": "Fried Rice w\/ Crab Meat, Dry Scallop & Egg White<br>瑤柱蟹肉蛋白炒飯",
   "Price": "$19.99"
  },
  {
@@ -570,15 +570,15 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Curry Rice Stick Noodle w\ Shrimp & B.B.Q. Pork<br>星洲炒米粉",
+  "Name": "Curry Rice Stick Noodle w\/ Shrimp & B.B.Q. Pork<br>星洲炒米粉",
   "Price": "$10.99"
  },
  {
-  "Name": "Stir-fried Egg Noodle w\ Beansprout<br>豉油皇炒麵",
+  "Name": "Stir-fried Egg Noodle w\/ Beansprout<br>豉油皇炒麵",
   "Price": "$11.99"
  },
  {
-  "Name": "Beef Pan-fried Noodle w\ Vegetable<br>菜遠牛肉煎麵",
+  "Name": "Beef Pan-fried Noodle w\/ Vegetable<br>菜遠牛肉煎麵",
   "Price": "$13.99"
  },
  {
@@ -590,7 +590,7 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Rice Stick Noodle Soup w\ Shredded Duck & Preserved Vegetable<br>酸菜鴨絲湯米粉",
+  "Name": "Rice Stick Noodle Soup w\/ Shredded Duck & Preserved Vegetable<br>酸菜鴨絲湯米粉",
   "Price": "$9.99"
  },
  {
@@ -602,7 +602,7 @@
   "Price": "$10.99"
  },
  {
-  "Name": "Beef Noodle Soup w\ Satay Sauce<br>沙茶牛肉湯麵",
+  "Name": "Beef Noodle Soup w\/ Satay Sauce<br>沙茶牛肉湯麵",
   "Price": "$10.99"
  },
  {
@@ -610,7 +610,7 @@
   "Price": "$10.99"
  },
  {
-  "Name": "Sizzling Udon & Chicken w\ Satay Sauce<br>鐵板沙嗲滑雞烏冬",
+  "Name": "Sizzling Udon & Chicken w\/ Satay Sauce<br>鐵板沙嗲滑雞烏冬",
   "Price": "$10.99"
  },
  {
@@ -618,7 +618,7 @@
   "Price": "$12.99"
  },
  {
-  "Name": "E-Fu Noodle topped w\ Crab Meat<br>蟹肉扒伊麵",
+  "Name": "E-Fu Noodle topped w\/ Crab Meat<br>蟹肉扒伊麵",
   "Price": "$15.99"
  }
 ],
