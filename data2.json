@@ -1,4 +1,16 @@
 {
+     "Party": [
+        {
+            "Name": "錦繡前程宴",
+            "Price": "329.99",
+            "Desc": "Peking Duck(正宗北京片皮鴨)<br>Xiao Long Bao(小籠包)<br>Salt & Pepper Shrimp(椒鹽蝦)<br>Sizzling Beef Fillet w/ Black Pepper Sauce(鐵板黑椒牛柳)<br>Half Shell Abalone w/ Black Bean Sauce(豉汁蒸原隻鮑魚)<br>Sichuan Boiled Fish Fillet in Spicy Broth(水煮魚片)<br>Youngcho Fried Rice(揚州炒飯)"
+        },
+        {
+            "Name": "Party B",
+            "Price": "$338.00 ",
+            "Desc": "Peking Duck<br>(正宗北京片皮鴨)<br>Xiao Long Bao<br>(小籠包)<br>Salt & Pepper Squid<br>(椒鹽鮮魷魚)<br>Chicken w/ Sweet Corn Soup<br>(雞茸粟米羹)<br>Orange Chicken<br>(香橙雞球)<br>Lobster Stir-fried w/ Ginger & Onion<br>(薑蔥龍蝦)<br>Beef Fried Rice<br>(生炒牛肉飯)"
+        }
+    ],
 "Dimsum":[
  {
   "Name": "Handmade B.B.Q. Pork Buns<br>手工叉燒包",
