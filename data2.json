@@ -3,12 +3,12 @@
         {
             "Name": "錦繡前程宴",
             "Price": "$329.99",
-            "Desc": "Peking Duck<br>(正宗北京片皮鴨)<br>Salt & Pepper Soft Shell Crab<br>(椒鹽軟殼蟹)<br>House Special Seafood Soup<br>(濃湯海皇羹)<br>Walnuts Shrimp w/ Mayonnaise Sauce<br>(琥珀核桃蝦球)<br>Double Lobsters Stir-fried w/ Ginger & Onion<br>(薑蔥焗雙龍蝦)<br>Beef Fillet w/ Thousand Cook<br>(古法金蒜牛柳)<br>Princess Chicken<br>(瑤柱貴妃雞)<br>Fish Fillet w/ Twins Cook<br>(鴛鴦鮮斑球)<br>Triple Mushrooms w/ Vegetable<br>(蠔皇三菇扒菜膽)<br>Chinese Sausage Fried Rice<br>(菜脯臘味炒飯)"
+            "Desc": "Peking Duck<br>(正宗北京片皮鴨)<br>Salt & Pepper Soft Shell Crab<br>(椒鹽軟殼蟹)<br>House Special Seafood Soup<br>(濃湯海皇羹)<br>Walnuts Shrimp w Mayonnaise Sauce<br>(琥珀核桃蝦球)<br>Double Lobsters Stir-fried w Ginger & Onion<br>(薑蔥焗雙龍蝦)<br>Beef Fillet w Thousand Cook<br>(古法金蒜牛柳)<br>Princess Chicken<br>(瑤柱貴妃雞)<br>Fish Fillet w Twins Cook<br>(鴛鴦鮮斑球)<br>Triple Mushrooms w Vegetable<br>(蠔皇三菇扒菜膽)<br>Chinese Sausage Fried Rice<br>(菜脯臘味炒飯)"
         },
         {
             "Name": "知己相聚宴",
             "Price": "$189.99",
-            "Desc": "Peking Duck<br>(正宗北京片皮鴨)<br>Xiao Long Bao<br>(小籠包)<br>Salt & Pepper Squid<br>(椒鹽鮮魷魚)<br>Chicken w/ Sweet Corn Soup<br>(雞茸粟米羹)<br>Orange Chicken<br>(香橙雞球)<br>Lobster Stir-fried w/ Ginger & Onion<br>(薑蔥龍蝦)<br>Beef Fried Rice<br>(生炒牛肉飯)"
+            "Desc": "Peking Duck<br>(正宗北京片皮鴨)<br>Xiao Long Bao<br>(小籠包)<br>Salt & Pepper Squid<br>(椒鹽鮮魷魚)<br>Chicken w Sweet Corn Soup<br>(雞茸粟米羹)<br>Orange Chicken<br>(香橙雞球)<br>Lobster Stir-fried w Ginger & Onion<br>(薑蔥龍蝦)<br>Beef Fried Rice<br>(生炒牛肉飯)"
         }
     ],
 "Dimsum":[
@@ -352,7 +352,7 @@
  {
   "Name": "Peking Duck<br>正宗北京片皮鴨",
   "Price": "$46.99",
-  "Desc": "Optional Add-on(另加):\r\n<br>Gua Bao(刈包) ----- $1 each \r\n<br>Cucumber(青瓜絲) ----- $1 each \r\n<br>Scallion(蔥絲) ----- $1 each \r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $5 each \r\n<br>\r\nDuck Soup w/ Vegetables (鴨湯) ----- $5 each\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ----- $5 each"
+  "Desc": "Optional Add-on(另加):\r\n<br>Gua Bao(刈包) ----- $1 each \r\n<br>Cucumber(青瓜絲) ----- $1 each \r\n<br>Scallion(蔥絲) ----- $1 each \r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $5 each \r\n<br>\r\nDuck Soup w Vegetables (鴨湯) ----- $5 each\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ----- $5 each"
  },
  {
   "Name": "Roasted Duck (Bone-in)<br>明爐燒鴨",
