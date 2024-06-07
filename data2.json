@@ -442,9 +442,11 @@
  }
 ],
 "Vegetable_Tofu":[
- {
-  "Name": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli Seasonal (Stir-fried, Garlic, Healthy Soup, Oyster Sauce, Shrimp Paste)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 芥菜, 生菜, 西蘭花    時價(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳, 蝦醬…)"
- },
+     {
+            "Name": "Seasonal Vegetable<br>時菜",
+            "Price": "Seasonal",
+            "Desc": "Snow Pea Leaves, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Broccoli, Bean Sprout<br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce, Fermented Bean Curd)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 西蘭花, 芽菜<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 蠔油, 腐乳)"
+        },
  {
   "Name": "Bitter Melon w/ Pan-fried Egg<br>涼瓜煎蛋",
   "Price": "$13.99"
