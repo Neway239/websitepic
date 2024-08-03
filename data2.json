@@ -560,6 +560,22 @@
 ],
 "Noodle":[
  {
+  "Name": "Beef Flat Rice Noodle w/ Black Bean Sauce<br>豉椒牛肉河粉",
+  "Price": "$11.99"
+ },
+ {
+  "Name": "Stir-fried Flat Rice Noodle w/ Beef<br>乾炒牛肉河粉",
+  "Price": "$11.99"
+ },
+ {
+  "Name": "Stir-fried Flat Rice Noodle w/ Chicken<br>乾炒雞肉河粉",
+  "Price": "$11.99"
+ },
+ {
+  "Name": "Stir-fried Flat Rice Noodle w/ Shrimp<br>蝦球乾炒河粉",
+  "Price": "$14.99"
+ },
+ {
   "Name": "Chicken Lo Mein<br>雞肉撈麵",
   "Price": "$10.99"
  },
