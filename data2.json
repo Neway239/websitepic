@@ -52,7 +52,7 @@
 "Appetizer":[
  {
   "Name": "Crispy Vegetable Egg Roll<br>香脆素菜卷",
-  "Price": "$1.99"
+  "Price": "$4.99"
  },
  {
   "Name": "French Fries<br>薯條",
@@ -84,7 +84,7 @@
  },
  {
   "Name": "Popcorn Chicken<br>鹽酥雞",
-  "Price": "$11.99"
+  "Price": "$12.99"
  }
 ],
 "Soup":[
@@ -93,15 +93,15 @@
   "Price": "$7.99"
  },
  {
-  "Name": "Hong Kong Style Dumpling Soup (Original/Hot & Sour)<br>港式湯餃(原味/酸辣）",
-  "Price": "$9.99"
- },
- {
   "Name": "Wonton Soup<br>港式雲吞湯",
   "Price": "$9.99"
  },
  {
   "Name": "Hot & Sour Soup<br>京都酸辣湯",
+  "Price": "$9.99"
+ },
+      {
+  "Name": "Duck Soup w/ Vegetable & Tofu (Bone-in)<br>時菜鴨架豆腐湯",
   "Price": "$9.99"
  },
  {
@@ -114,7 +114,7 @@
  },
  {
   "Name": "House Special Seafood Soup<br>海鮮滑豆腐羹",
-  "Price": "$12.99"
+  "Price": "$16.99"
  },
  {
   "Name": "Fish Fillet w/ Preserved Vegetable Soup<br>酸菜魚片湯",
