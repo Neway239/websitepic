@@ -172,10 +172,6 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Cashew Shrimp<br>腰果蝦球",
-  "Price": "$14.99"
- },
- {
   "Name": "Kung Pao Shrimp<br>宮保蝦球",
   "Price": "$14.99"
  },
@@ -220,11 +216,7 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Steamed Half Shell Abalone w/ Garlic Sauce<br>蒜蓉蒸原隻帶殼鮑魚",
-  "Price": "$23.99"
- },
- {
-  "Name": "Steamed Half Shell Abalone w/ Black Bean Sauce<br>豉汁蒸原隻帶殼鮑魚",
+  "Name": "Steamed Half Shell Abalone<br>蒜蓉豉汁原隻帶殼鮑魚",
   "Price": "$23.99"
  },
  {
