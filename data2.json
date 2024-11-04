@@ -51,7 +51,7 @@
 ],
 "Appetizer":[
  {
-  "Name": "Crispy Vegetable Egg Roll<br>香脆素菜卷",
+  "Name": "Crispy Vegetable Egg Roll (4)<br>香脆素菜卷 (4條)",
   "Price": "$4.99"
  },
  {
@@ -79,7 +79,7 @@
   "Price": "$7.99"
  },
  {
-  "Name": "Handmade Steamed Dumplings<br>手工蒸餃",
+  "Name": "Handmade Steamed Dumplings<br>手工爆漿水餃",
   "Price": "$9.99"
  },
  {
@@ -703,7 +703,7 @@
   "Price": "$3.99"
  },
  {
-  "Name": "Mochi Ice Cream (3)<br>雪糕糯米 (3)",
+  "Name": "Mochi Ice Cream (3)<br>雪糕糯米 (3粒)",
   "Price": "$5.99"
  }
 ]
