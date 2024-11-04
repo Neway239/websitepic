@@ -501,15 +501,18 @@
 "Congee_Rice":[
  {
   "Name": "Minced Beef Congee<br>生滾牛肉粥",
-  "Price": "$8.99"
+  "Price": "$8.99",
+  "Desc": "Optional Add-on(另加):\r\n<br>Thousand Egg(皮蛋) ----- $2 each"
  },
  {
   "Name": "Fish Fillet Congee<br>魚片粥",
-  "Price": "$8.99"
+  "Price": "$8.99",
+"Desc": "Optional Add-on(另加):\r\n<br>Thousand Egg(皮蛋) ----- $2 each"
  },
  {
   "Name": "Pork Congee<br>咸瘦肉粥",
-  "Price": "$8.99"
+  "Price": "$8.99",
+"Desc": "Optional Add-on(另加):\r\n<br>Thousand Egg(皮蛋) ----- $2 each"
  },
  {
   "Name": "Whole Abalone w/ Chicken Congee<br>原隻鮑魚雞粥",
