@@ -413,7 +413,8 @@
  },
  {
   "Name": "Lamb Hot Pot<br>古法羊腩煲",
-  "Price": "$21.99"
+  "Price": "$21.99",
+       "Desc": "Optional Add-on(另加):\r\n<br>Bean Curd(枝竹) ----- $5 each \r\n<br>Tofu(炸豆腐) ----- $5 each\r\n<br>Vegetable(蔬菜) ----- $5 each"
  },
  {
   "Name": "Beef w/ Satay Hot Pot<br>沙嗲牛肉煲",
