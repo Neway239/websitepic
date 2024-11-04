@@ -661,7 +661,7 @@
  {
   "Name": "Fruit Juice(Cup)<br>果汁(杯)",
   "Price": "$2.99",
-"Desc":"Apple(苹果)<br>Orange(橙)"
+"Desc":"Apple(苹果)"
  },
  {
   "Name": "Arizona Green Tea<br>亞利桑那綠茶",
@@ -678,7 +678,7 @@
  {
   "Name": "Slushie<br>冰沙",
   "Price": "$3.99",
-"Desc": "Mango(芒果)<br>Lychee(荔枝)<br>Strawberry(草莓)"
+"Desc": "Mango(芒果)<br>Lychee(荔枝)"
  },
  {
   "Name": "Coffee<br>咖啡",
