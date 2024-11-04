@@ -632,6 +632,10 @@
  }
 ],
 "Drinks":[
+     {
+  "Name": "Mango Green Tea<br>芒果綠茶",
+  "Price": "$4.99"
+ },
  {
   "Name": "Bottle Water<br>礦泉水",
   "Price": "$1"
@@ -699,8 +703,8 @@
   "Price": "$3.99"
  },
  {
-  "Name": "Mochi Ice Cream<br>雪糕糯米",
-  "Price": "$1.99(pc)"
+  "Name": "Mochi Ice Cream (3)<br>雪糕糯米 (3)",
+  "Price": "$5.99"
  }
 ]
 }
