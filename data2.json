@@ -596,7 +596,7 @@
   "Price": "$13.99"
  },
       {
-  "Name": "Shrimp Pan-fried Noodle<br>蝦球煎麵",
+  "Name": "Prawn Pan-fried Noodle<br>蝦球煎麵",
   "Price": "$16.99"
  },
  {
@@ -607,10 +607,7 @@
   "Name": "Combination Pan-fried Noodle<br>什錦煎麵",
   "Price": "$14.99"
  },
- {
-  "Name": "Seafood Delight Pan-fried Noodle<br>海鮮煎麵",
-  "Price": "$14.99"
- },
+
  {
   "Name": "Thai Style Beef Udon Soup<br>泰式牛肉湯烏冬",
   "Price": "$10.99"
@@ -647,7 +644,7 @@
  },
  {
   "Name": "Lemonade(Cup)<br>檸檬汁(杯）",
-  "Price": "$1.99"
+  "Price": "$2.99"
  },
  {
   "Name": "Perrier Mineral Water<br>巴黎氣泡水",
