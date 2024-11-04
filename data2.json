@@ -94,7 +94,8 @@
  },
  {
   "Name": "Wonton Soup<br>港式雲吞湯",
-  "Price": "$9.99"
+  "Price": "$9.99",
+        "Desc": "Optional Add-on(另加):\r\n<br>Noodle(麵) ----- $5 each"
  },
  {
   "Name": "Hot & Sour Soup<br>京都酸辣湯",
@@ -490,10 +491,6 @@
   "Price": "$11.99"
  },
  {
-  "Name": "Fried Tofu w/ Ground Shrimp<br>炸釀豆腐",
-  "Price": "$14.99"
- },
- {
   "Name": "Japanese Egg Tofu w/ Special Cook<br>普寧玉子豆腐",
   "Price": "$14.99"
  }
@@ -533,10 +530,6 @@
  {
   "Name": "B.B.Q. Pork Fried Rice<br>叉燒炒飯",
   "Price": "$10.99"
- },
- {
-  "Name": "Pineapple & Chicken Fried Rice<br>菠蘿雞粒炒飯",
-  "Price": "$11.99"
  },
  {
   "Name": "Shrimp Fried Rice<br>鮮蝦炒飯",
