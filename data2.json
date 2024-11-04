@@ -138,6 +138,14 @@
   "Name": "Salt & Pepper Shrimp w/ Shell<br>椒鹽中蝦",
   "Price": "$12.99"
  },
+      {
+  "Name": "Pan-fried Prawns w/ Soy Sauce<br>豉油皇大蝦",
+  "Price": "$14.99"
+ },
+           {
+  "Name": "Steamed Prawns w/ Garlic & Vermicelli<br>蒜蓉粉絲蒸大蝦",
+  "Price": "$17.99"
+ },
  {
   "Name": "Salt & Pepper Squid<br>椒鹽鮮魷魚",
   "Price": "$12.99"
@@ -180,7 +188,7 @@
  },
  {
   "Name": "Salt & Pepper Fish Fillet<br>椒鹽斑球",
-  "Price": "$11.99"
+  "Price": "$13.99"
  },
  {
   "Name": "Fish Fillet w/ Seasonal Vegetable<br>時菜炒斑球",
@@ -240,7 +248,7 @@
  },
  {
   "Name": "Steamed Fish Fillet, Black Mushroom & Ham (Pre-order)<br>雲腿麒麟鮮斑片(需預定)",
-  "Price": "Seasonal"
+  "Price": "$33.99"
  },
  {
   "Name": "Lobster<br>龍蝦",
@@ -254,7 +262,7 @@
 "Pork":[
  {
   "Name": "Sweet & Sour Pork in Hong Kong Style<br>糖醋咕嚕肉",
-  "Price": "$11.99"
+  "Price": "$12.99"
  },
  {
   "Name": "Shredded Pork w/ Preserved Vegetable<br>酸菜肉絲",
@@ -262,7 +270,7 @@
  },
  {
   "Name": "Shredded Pork w/ Spicy Garlic Sauce<br>魚香肉絲",
-  "Price": "$12.99"
+  "Price": "$14.99"
  },
  {
   "Name": "Salt & Pepper Spare Ribs<br>香脆椒鹽骨",
@@ -274,7 +282,7 @@
  },
  {
   "Name": "Spare Ribs in Peking Style<br>京都排骨",
-  "Price": "$13.99"
+  "Price": "$14.99"
  },
  {
   "Name": "Spare Ribs Coated w/ Golden Salted Egg<br>酥香金沙骨",
@@ -311,6 +319,11 @@
  }
 ],
 "Beef":[
+     
+      {
+  "Name": "Sizzling Beef Rib w/ Black Pepper<br>鐵板黑椒牛仔骨",
+  "Price": "$19.99"
+ },
  {
   "Name": "Beef w/ Preserved Vegetable<br>酸菜牛肉",
   "Price": "$13.99"
@@ -412,17 +425,14 @@
   "Name": "Eggplant w/ Garlic Sauce Hot Pot w/ Meat<br>魚香茄子煲",
   "Price": "$12.99"
  },
- {
-  "Name": "Curry Chicken Hot Pot<br>椰香咖喱滑雞煲",
-  "Price": "$12.99"
- },
+
  {
   "Name": "Fish Fillet w/ Black Pepper Hot Pot<br>黑椒斑球煲",
   "Price": "$13.99"
  },
  {
-  "Name": "Fish Fillet w/ Tofu Hot Pot<br>豆腐斑球煲",
-  "Price": "$14.99"
+  "Name": "Lamb Hot Pot<br>古法羊腩煲",
+  "Price": "$21.99"
  },
  {
   "Name": "Beef w/ Satay Hot Pot<br>沙嗲牛肉煲",
@@ -491,15 +501,15 @@
 "Congee_Rice":[
  {
   "Name": "Minced Beef Congee<br>生滾牛肉粥",
-  "Price": "$7.99"
+  "Price": "$8.99"
  },
  {
   "Name": "Fish Fillet Congee<br>魚片粥",
-  "Price": "$7.99"
+  "Price": "$8.99"
  },
  {
-  "Name": "Pork w/ Thousand Egg Congee<br>皮蛋瘦肉粥",
-  "Price": "$9.99"
+  "Name": "Pork Congee<br>咸瘦肉粥",
+  "Price": "$8.99"
  },
  {
   "Name": "Whole Abalone w/ Chicken Congee<br>原隻鮑魚雞粥",
@@ -527,15 +537,15 @@
  },
  {
   "Name": "Shrimp Fried Rice<br>鮮蝦炒飯",
-  "Price": "$11.99"
+  "Price": "$12.99"
  },
  {
   "Name": "Youngcho Fried Rice<br>揚州炒飯",
-  "Price": "$11.99"
+  "Price": "$12.99"
  },
  {
   "Name": "Combination Fried Rice<br>招牌炒飯",
-  "Price": "$11.99"
+  "Price": "$12.99"
  },
  {
   "Name": "Chinese Sausage Fried Rice<br>菜脯臘味炒飯",
@@ -546,8 +556,8 @@
   "Price": "$13.99"
  },
  {
-  "Name": "Fried Rice w/ Crab Meat, Dry Scallop & Egg White<br>瑤柱蟹肉蛋白炒飯",
-  "Price": "$19.99"
+  "Name": "Dried Scallop Fried Rice<br>瑤柱炒飯",
+  "Price": "$17.99"
  },
  {
   "Name": "Steamed Rice(Bowl)<br>絲苗米飯(碗)",
@@ -560,10 +570,6 @@
 ],
 "Noodle":[
  {
-  "Name": "Beef Flat Rice Noodle w/ Black Bean Sauce<br>豉椒牛肉河粉",
-  "Price": "$11.99"
- },
- {
   "Name": "Stir-fried Flat Rice Noodle w/ Beef<br>乾炒牛肉河粉",
   "Price": "$11.99"
  },
@@ -575,17 +581,21 @@
   "Name": "Stir-fried Flat Rice Noodle w/ Shrimp<br>蝦球乾炒河粉",
   "Price": "$14.99"
  },
+      {
+  "Name": "Combination Lo Mein<br>什錦撈麵",
+  "Price": "$13.99"
+ },
  {
   "Name": "Chicken Lo Mein<br>雞肉撈麵",
-  "Price": "$10.99"
+  "Price": "$11.99"
  },
  {
   "Name": "Beef Lo Mein<br>牛肉撈麵",
-  "Price": "$10.99"
+  "Price": "$11.99"
  },
  {
   "Name": "Shrimp Lo Mein<br>蝦球撈麵",
-  "Price": "$13.99"
+  "Price": "$14.99"
  },
  {
   "Name": "Curry Rice Stick Noodle w/ Shrimp & B.B.Q. Pork<br>星洲炒米粉",
@@ -595,12 +605,20 @@
   "Name": "Stir-fried Egg Noodle w/ Beansprout<br>豉油皇炒麵",
   "Price": "$11.99"
  },
+      {
+  "Name": "Chicken Pan-fried Noodle<br>雞肉煎麵",
+  "Price": "$13.99"
+ },
+      {
+  "Name": "Shrimp Pan-fried Noodle<br>蝦球煎麵",
+  "Price": "$16.99"
+ },
  {
-  "Name": "Beef Pan-fried Noodle w/ Vegetable<br>菜遠牛肉煎麵",
+  "Name": "Beef Pan-fried Noodle<br>牛肉煎麵",
   "Price": "$13.99"
  },
  {
-  "Name": "Combination Pan-fried Noodle<br>招牌煎麵",
+  "Name": "Combination Pan-fried Noodle<br>什錦煎麵",
   "Price": "$14.99"
  },
  {
@@ -608,15 +626,7 @@
   "Price": "$14.99"
  },
  {
-  "Name": "Rice Stick Noodle Soup w/ Shredded Duck & Preserved Vegetable<br>酸菜鴨絲湯米粉",
-  "Price": "$9.99"
- },
- {
-  "Name": "Sichuan Style Beef Udon Soup<br>四川牛肉湯烏冬",
-  "Price": "$10.99"
- },
- {
-  "Name": "Wonton Noodle Soup<br>雲吞湯麵",
+  "Name": "Thai Style Beef Udon Soup<br>泰式牛肉湯烏冬",
   "Price": "$10.99"
  },
  {
@@ -630,10 +640,6 @@
  {
   "Name": "Sizzling Udon & Chicken w/ Satay Sauce<br>鐵板沙嗲滑雞烏冬",
   "Price": "$10.99"
- },
- {
-  "Name": "Stir-fried E-Fu Noodle in Canton Style<br>乾燒伊麵",
-  "Price": "$12.99"
  },
  {
   "Name": "E-Fu Noodle topped w/ Crab Meat<br>蟹肉扒伊麵",
