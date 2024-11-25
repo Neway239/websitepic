@@ -147,7 +147,7 @@
             "Price": "$15.99 "
         },
         {
-            "Name": "Whole Squid in Japanese Style<br>炭燒魷魚",
+            "Name": "BBQ Style Whole Squid<br>炭燒魷魚",
             "Price": "$16.99 "
         },
         {
@@ -295,6 +295,10 @@
         {
             "Name": "Spare Ribs in Japanese Style<br>炭燒骨",
             "Price": "$16.99 "
+        },        
+        {
+            "Name": "BBQ Style Beef Ribs<br>炭燒牛仔骨",
+            "Price": "$23.99 "
         },
         {
             "Name": "Spare Ribs w/ Golden Egg<br>酥香金沙骨",
