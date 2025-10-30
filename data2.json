@@ -185,19 +185,19 @@
  },
  {
   "Name": "Salt & Pepper Fish Fillet<br>椒鹽斑球",
-  "Price": "$13.99"
- },
- {
-  "Name": "Fish Fillet w/ Seasonal Vegetable<br>時菜炒斑球",
-  "Price": "$13.99"
- },
- {
-  "Name": "Sichuan Boiled Fish Fillet in Spicy Broth<br>水煮魚片",
   "Price": "$14.99"
  },
  {
+  "Name": "Fish Fillet w/ Seasonal Vegetable<br>時菜炒斑球",
+  "Price": "$14.99"
+ },
+ {
+  "Name": "Sichuan Boiled Fish Fillet in Spicy Broth<br>水煮魚片",
+  "Price": "$15.99"
+ },
+ {
   "Name": "Fish Fillet w/ Twins Cook<br>鴛鴦鮮斑球",
-  "Price": "$16.99"
+  "Price": "$17.99"
  },
  {
   "Name": "Stuffed Tofu w/ Ground Shrimp<br>百花煎釀豆腐",
@@ -209,7 +209,7 @@
  },
  {
   "Name": "Calamari w/ X.O. Sauce<br>X.O.醬爆花枝",
-  "Price": "$14.99"
+  "Price": "$15.99"
  },
  {
   "Name": "Clam w/ Black Bean Sauce<br>豉椒炒蜆",
@@ -409,7 +409,7 @@
 
  {
   "Name": "Fish Fillet w/ Black Pepper Hot Pot<br>黑椒斑球煲",
-  "Price": "$13.99"
+  "Price": "$14.99"
  },
  {
   "Name": "Lamb Hot Pot<br>古法羊腩煲",
