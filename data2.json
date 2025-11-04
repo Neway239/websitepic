@@ -349,7 +349,7 @@
 "Chicken_Duck":[
  {
   "Name": "Peking Duck<br>正宗北京片皮鴨",
-  "Price": "$46.99",
+  "Price": "$49.99",
   "Desc": "Optional Add-on(另加):\r\n<br>Gua Bao(刈包) ----- $1 each \r\n<br>Cucumber(青瓜絲) ----- $1 each \r\n<br>Scallion(蔥絲) ----- $1 each \r\n<br>Stir-fried Duck Meat (炒鴨絲) ----- $5 each \r\n<br>\r\nDuck Soup w/ Vegetables (鴨湯) ----- $5 each\r\n<br>\r\nDuck Meat Fried Rice (鴨肉炒飯) ----- $5 each"
  },
  {
@@ -413,7 +413,7 @@
  },
  {
   "Name": "Lamb Hot Pot<br>古法羊腩煲",
-  "Price": "$23.99",
+  "Price": "$25.99",
        "Desc": "Optional Add-on(另加):\r\n<br>Bean Curd(枝竹) ----- $5 each \r\n<br>Tofu(炸豆腐) ----- $5 each\r\n<br>Vegetable(蔬菜) ----- $5 each"
  },
  {
