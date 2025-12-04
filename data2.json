@@ -554,17 +554,17 @@
 "Noodle":[
  {
   "Name": "Stir-fried Flat Rice Noodle w/ Beef<br>乾炒牛肉河粉",
-  "Price": "$11.99",
+  "Price": "$12.99",
            "Desc": "Optional Add-on(另加):\r\n<br>X.O.Sauce ----- $5"
  },
  {
   "Name": "Stir-fried Flat Rice Noodle w/ Chicken<br>乾炒雞肉河粉",
-  "Price": "$11.99",
+  "Price": "$12.99",
       "Desc": "Optional Add-on(另加):\r\n<br>X.O.Sauce ----- $5"
  },
  {
   "Name": "Stir-fried Flat Rice Noodle w/ Shrimp<br>蝦球乾炒河粉",
-  "Price": "$14.99",
+  "Price": "$15.99",
       "Desc": "Optional Add-on(另加):\r\n<br>X.O.Sauce ----- $5"
  },
       {
@@ -585,7 +585,7 @@
  },
  {
   "Name": "Curry Rice Stick Noodle w/ Shrimp & B.B.Q. Pork<br>星洲炒米粉",
-  "Price": "$10.99"
+  "Price": "$12.99"
  },
  {
   "Name": "Stir-fried Egg Noodle w/ Beansprout<br>豉油皇炒麵",
@@ -618,7 +618,7 @@
  },
  {
   "Name": "Sizzling Udon & Chicken w/ Satay Sauce<br>鐵板沙嗲滑雞烏冬",
-  "Price": "$10.99"
+  "Price": "$12.99"
  },
  {
   "Name": "E-Fu Noodle topped w/ Crab Meat<br>蟹肉扒伊麵",
